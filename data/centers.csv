@@ -1,0 +1,419 @@
+﻿id,code,governorate_id,governorate_code,type,name_ar,name_en,label_en,name_ar_search,source,status,replaces_code,founded,location_quality,latitude,longitude,area_sqkm
+100,EG0100,1,EG01,zemam_out,خارج الزمام,Zemam Out,Zemam Out,خارج الزمام,base_2017,active,,,source,29.971508,31.799417,1522.841
+101,EG0101,1,EG01,qism,قسم التبين,El Tebbin,El Tebbin (Qism),قسم التبين,base_2017,active,,,source,29.780622,31.336656,25.237
+102,EG0102,1,EG01,qism,قسم حلوان,Helwan,Helwan (Qism),قسم حلوان,base_2017,active,,,source,29.853788,31.328935,65.184
+103,EG0103,1,EG01,qism,قسم 15 مايو,15th of May,15th of May (Qism),قسم 15 مايو,base_2017,active,,,source,29.853391,31.38735,80.875
+104,EG0104,1,EG01,qism,قسم المعادي,Maadi,Maadi (Qism),قسم المعادي,base_2017,active,,,source,29.963425,31.367917,25.16
+105,EG0105,1,EG01,qism,قسم طره,Tora,Tora (Qism),قسم طره,base_2017,active,,,source,29.939036,31.380293,94.179
+106,EG0106,1,EG01,qism,قسم مصر القديمة,Old Cairo,Old Cairo (Qism),قسم مصر القديمه,base_2017,active,,,source,30.00551,31.241887,9.727
+107,EG0107,1,EG01,qism,قسم السيدة زينب,Sayeda Zeinab,Sayeda Zeinab (Qism),قسم السيده زينب,base_2017,active,,,source,30.029841,31.241835,3.645
+108,EG0108,1,EG01,qism,قسم الخليفة,El Khalifa,El Khalifa (Qism),قسم الخليفه,base_2017,active,,,source,30.010366,31.29601,38.883
+109,EG0109,1,EG01,qism,قسم عابدين,Abdeen,Abdeen (Qism),قسم عابدين,base_2017,active,,,source,30.046021,31.245219,1.688
+110,EG0110,1,EG01,qism,قسم الموسكي,El Mosky,El Mosky (Qism),قسم الموسكي,base_2017,active,,,source,30.050435,31.252392,0.81
+111,EG0111,1,EG01,qism,قسم قصر النيل,Qasr El Nil,Qasr El Nil (Qism),قسم قصر النيل,base_2017,active,,,source,30.04308,31.235131,1.092
+112,EG0112,1,EG01,qism,قسم بولاق,Bulaq,Bulaq (Qism),قسم بولاق,base_2017,active,,,source,30.062028,31.23416,2.074
+113,EG0113,1,EG01,qism,قسم الأزبكية,Azbakeya,Azbakeya (Qism),قسم الازبكيه,base_2017,active,,,source,30.060035,31.245854,1.438
+114,EG0114,1,EG01,qism,قسم الدرب الأحمر,El Darb El Ahmar,El Darb El Ahmar (Qism),قسم الدرب الاحمر,base_2017,active,,,source,30.041404,31.260112,1.863
+115,EG0115,1,EG01,qism,قسم الجمالية,El Gamaleya,El Gamaleya (Qism),قسم الجماليه,base_2017,active,,,source,30.053664,31.264555,2.042
+116,EG0116,1,EG01,qism,قسم باب الشعرية,Bab El Sharia,Bab El Sharia (Qism),قسم باب الشعريه,base_2017,active,,,source,30.05877,31.257994,0.979
+117,EG0117,1,EG01,qism,قسم الظاهر,El Daher,El Daher (Qism),قسم الظاهر,base_2017,active,,,source,30.062796,31.268094,1.97
+118,EG0118,1,EG01,qism,قسم الشرابية,El Sharabiya,El Sharabiya (Qism),قسم الشرابيه,base_2017,active,,,source,30.081965,31.264124,3.692
+119,EG0119,1,EG01,qism,قسم شبرا,Shubra,Shubra (Qism),قسم شبرا,base_2017,active,,,source,30.071759,31.25032,1.339
+120,EG0120,1,EG01,qism,قسم روض الفرج,Rod El Farag,Rod El Farag (Qism),قسم روض الفرج,base_2017,active,,,source,30.074683,31.237543,2.478
+121,EG0121,1,EG01,qism,قسم الساحل,El Sahel,El Sahel (Qism),قسم الساحل,base_2017,active,,,source,30.092128,31.247217,5.242
+122,EG0122,1,EG01,qism,قسم الوايلي,El Waili,El Waili (Qism),قسم الوايلي,base_2017,active,,,source,30.071609,31.283413,4.978
+123,EG0123,1,EG01,qism,قسم حدائق القبة,Hadayek El Qubba,Hadayek El Qubba (Qism),قسم حدائق القبه,base_2017,active,,,source,30.085544,31.282908,3.948
+124,EG0124,1,EG01,qism,قسم الزيتون,El Zeitoun,El Zeitoun (Qism),قسم الزيتون,base_2017,active,,,source,30.100449,31.301258,8.208
+125,EG0125,1,EG01,qism,قسم المطرية,El Matareya,El Matareya (Qism),قسم المطريه,base_2017,active,,,source,30.127969,31.303982,6.228
+126,EG0126,1,EG01,qism,قسم أول مدينة نصر,Nasr City 1,Nasr City 1 (Qism),قسم اول مدينه نصر,base_2017,active,,,source,30.03207,31.369427,73.706
+127,EG0127,1,EG01,qism,قسم ثان مدينة نصر,Nasr City 2,Nasr City 2 (Qism),قسم ثان مدينه نصر,base_2017,active,,,source,30.048175,31.308593,17.307
+128,EG0128,1,EG01,qism,قسم مصر الجديدة,Heliopolis,Heliopolis (Qism),قسم مصر الجديده,base_2017,active,,,source,30.090713,31.32733,9.156
+129,EG0129,1,EG01,qism,قسم النزهة,El Nozha,El Nozha (Qism),قسم النزهه,base_2017,active,,,source,30.115225,31.388795,59.8
+130,EG0130,1,EG01,qism,قسم عين شمس,Ain Shams,Ain Shams (Qism),قسم عين شمس,base_2017,active,,,source,30.122653,31.330039,8.331
+131,EG0131,1,EG01,qism,قسم الزاوية الحمراء,El Zawya El Hamra,El Zawya El Hamra (Qism),قسم الزاويه الحمراء,base_2017,active,,,source,30.097659,31.269717,4.952
+132,EG0132,1,EG01,qism,قسم السلام,El Salam,El Salam (Qism),قسم السلام,base_2017,active,,,source,30.162206,31.428194,31.321
+133,EG0133,1,EG01,qism,قسم الزمالك,Zamalek,Zamalek (Qism),قسم الزمالك,base_2017,active,,,source,30.056293,31.223194,2.692
+134,EG0134,1,EG01,qism,قسم منشأة ناصر,Manshiyat Naser,Manshiyat Naser (Qism),قسم منشاه ناصر,base_2017,active,,,source,30.042848,31.283962,5.555
+135,EG0135,1,EG01,qism,قسم البساتين,El Basatin,El Basatin (Qism),قسم البساتين,base_2017,active,,,source,29.980221,31.293046,29.821
+136,EG0136,1,EG01,qism,قسم المرج,El Marg,El Marg (Qism),قسم المرج,base_2017,active,,,source,30.155815,31.346202,16.541
+137,EG0137,1,EG01,qism,قسم أول القاهرة الجديدة,New Cairo 1,New Cairo 1 (Qism),قسم اول القاهره الجديده,base_2017,active,,,source,30.024249,31.549609,170.894
+138,EG0138,1,EG01,qism,قسم ثان القاهرة الجديدة,New Cairo 2,New Cairo 2 (Qism),قسم ثان القاهره الجديده,base_2017,active,,,source,30.073523,31.582365,181.527
+139,EG0139,1,EG01,qism,قسم ثالث القاهرة الجديدة,New Cairo 3,New Cairo 3 (Qism),قسم ثالث القاهره الجديده,base_2017,active,,,source,29.977527,31.455741,119.596
+140,EG0140,1,EG01,qism,قسم الشروق,El Shorouk,El Shorouk (Qism),قسم الشروق,base_2017,active,,,source,30.132999,31.547475,160.912
+141,EG0141,1,EG01,qism,قسم بدر,Badr,Badr (Qism),قسم بدر,base_2017,active,,,source,30.13631,31.706286,80.9
+200,EG0200,2,EG02,zemam_out,خارج الزمام,Zemam Out,Zemam Out,خارج الزمام,base_2017,active,,,source,30.537238,29.720937,811.802
+201,EG0201,2,EG02,qism,قسم المنتزة,Montaza,Montaza (Qism),قسم المنتزه,base_2017,active,,,source,31.264261,30.030481,78.008
+202,EG0202,2,EG02,qism,قسم أول الرمل,Raml 1,Raml 1 (Qism),قسم اول الرمل,base_2017,active,,,source,31.236743,29.985793,6.489
+203,EG0203,2,EG02,qism,قسم سيدي جابر,Sidi Gaber,Sidi Gaber (Qism),قسم سيدي جابر,base_2017,active,,,source,31.216344,29.948531,10.491
+204,EG0204,2,EG02,qism,قسم باب شرقي,Bab Sharqi,Bab Sharqi (Qism),قسم باب شرقي,base_2017,active,,,source,31.205024,29.921029,6.317
+205,EG0205,2,EG02,qism,قسم محرم بك,Moharam Bek,Moharam Bek (Qism),قسم محرم بك,base_2017,active,,,source,31.184023,29.938826,11.544
+206,EG0206,2,EG02,qism,قسم العطارين,El Attarin,El Attarin (Qism),قسم العطارين,base_2017,active,,,source,31.198113,29.904008,1.767
+207,EG0207,2,EG02,qism,قسم المنشية,El Manshiya,El Manshiya (Qism),قسم المنشيه,base_2017,active,,,source,31.198482,29.89226,0.63
+208,EG0208,2,EG02,qism,قسم كرموز,Karmouz,Karmouz (Qism),قسم كرموز,base_2017,active,,,source,31.179365,29.90377,3.182
+209,EG0209,2,EG02,qism,قسم اللبان,El Labban,El Labban (Qism),قسم اللبان,base_2017,active,,,source,31.190728,29.892396,1.065
+210,EG0210,2,EG02,qism,قسم الجمرك,El Gomrok,El Gomrok (Qism),قسم الجمرك,base_2017,active,,,source,31.203484,29.878513,1.708
+211,EG0211,2,EG02,qism,قسم مينا البصل,Mina El Basal,Mina El Basal (Qism),قسم مينا البصل,base_2017,active,,,source,31.167175,29.880171,9.446
+212,EG0212,2,EG02,qism,قسم الدخيلة,El Dekheila,El Dekheila (Qism),قسم الدخيله,base_2017,active,,,source,31.118562,29.806084,44.569
+213,EG0213,2,EG02,qism,قسم العامرية,El Amreya,El Amreya (Qism),قسم العامريه,base_2017,active,,,source,30.958924,29.827595,934.437
+214,EG0214,2,EG02,qism,قسم برج العرب,Borg El Arab,Borg El Arab (Qism),قسم برج العرب,base_2017,active,,,source,30.901212,29.493976,427.427
+215,EG0215,2,EG02,police_administration,إدارة شرطة ميناء الإسكندرية,Alexandria Port Police Department,Alexandria Port Police Department,اداره شرطه ميناء الاسكندريه,base_2017,active,,,source,31.180407,29.876034,2.332
+216,EG0216,2,EG02,new_city,مدينة برج العرب الجديدة,New Borg El Arab City,New Borg El Arab City,مدينه برج العرب الجديده,base_2017,active,,,source,30.89879,29.62224,122.945
+217,EG0217,2,EG02,qism,قسم ثان الرمل,Raml 2,Raml 2 (Qism),قسم ثان الرمل,base_2017,active,,,source,31.211277,29.994477,26.357
+218,EG0218,2,EG02,other,الساحل الشمالى,North Coast,North Coast,الساحل الشمالي,base_2017,active,,,source,30.934553,29.47513,9.532
+301,EG0301,3,EG03,qism,قسم الشرق,El Sharq,El Sharq (Qism),قسم الشرق,base_2017,active,,,source,31.263126,32.3073,4.654
+302,EG0302,3,EG03,qism,قسم العرب,El Arab,El Arab (Qism),قسم العرب,base_2017,active,,,source,31.261904,32.293995,1.676
+303,EG0303,3,EG03,qism,قسم المناخ,El Manakh,El Manakh (Qism),قسم المناخ,base_2017,active,,,source,31.264968,32.287272,3.444
+304,EG0304,3,EG03,qism,قسم بور فؤاد,Port Fouad 1,Port Fouad 1 (Qism),قسم بور فؤاد,base_2017,active,,,source,31.235542,32.330392,10.928
+305,EG0305,3,EG03,qism,قسم الضواحى,El Dawahy,El Dawahy (Qism),قسم الضواحي,base_2017,active,,,source,31.246254,32.279518,4.25
+306,EG0306,3,EG03,qism,قسم الجنوب,El Ganoub 1,El Ganoub 1 (Qism),قسم الجنوب,base_2017,active,,,source,31.140807,32.291369,177.989
+307,EG0307,3,EG03,qism,قسم الزهور,El Zohour,El Zohour (Qism),قسم الزهور,base_2017,active,,,source,31.265726,32.26584,5.097
+308,EG0308,3,EG03,qism,قسم ثان بور فؤاد,Port Fouad 2,Port Fouad 2 (Qism),قسم ثان بور فؤاد,base_2017,active,,,source,31.169654,32.317763,20.76
+309,EG0309,3,EG03,qism,قسم شرق التفريعة,East Tafreaa,East Tafreaa (Qism),قسم شرق التفريعه,base_2017,active,,,source,31.066977,32.429971,522.277
+310,EG0310,3,EG03,qism,قسم المناصرة,El Manasra,El Manasra (Qism),قسم المناصره,base_2017,active,,,source,31.237188,32.173036,48.902
+311,EG0311,3,EG03,qism,قسم ثان الجنوب,El Ganoub 2,El Ganoub 2 (Qism),قسم ثان الجنوب,base_2017,active,,,source,30.993274,32.253973,177.711
+312,EG0312,3,EG03,police_administration,إدارة شرطة ميناء بورسعيد,Port Said Port Police Department,Port Said Port Police Department,اداره شرطه ميناء بورسعيد,base_2017,active,,,source,31.254224,32.301135,2.605
+401,EG0401,4,EG04,qism,قسم السويس,Suez,Suez (Qism),قسم السويس,base_2017,active,,,source,29.96129,32.569344,11.163
+402,EG0402,4,EG04,qism,قسم الأربعين,El Arbaeen,El Arbaeen (Qism),قسم الاربعين,base_2017,active,,,source,29.980071,32.535617,37.114
+403,EG0403,4,EG04,qism,قسم عتاقة,Ataqa,Ataqa (Qism),قسم عتاقه,base_2017,active,,,source,29.538544,32.127999,6946.102
+404,EG0404,4,EG04,qism,قسم فيصل,Faisal,Faisal (Qism),قسم فيصل,base_2017,active,,,source,30.11799,32.180736,1170.86
+405,EG0405,4,EG04,qism,قسم الجناين,El Ganayen,El Ganayen (Qism),قسم الجناين,base_2017,active,,,source,30.06291,32.702563,1187.296
+406,EG0406,4,EG04,police_administration,إدارة شرطة ميناء السويس,Suez Port Police Department,Suez Port Police Department,اداره شرطه ميناء السويس,base_2017,active,,,source,29.88153,32.618616,5.567
+1101,EG1101,11,EG11,qism,قسم أول دمياط,Damietta 1,Damietta 1 (Qism),قسم اول دمياط,base_2017,active,,,source,31.406931,31.806787,7.454
+1102,EG1102,11,EG11,markaz,مركز دمياط,Damietta,Damietta (Markaz),مركز دمياط,base_2017,active,,,source,31.440269,31.842058,196.731
+1103,EG1103,11,EG11,markaz,مركز فارسكور,Faraskur,Faraskur (Markaz),مركز فارسكور,base_2017,active,,,source,31.310019,31.732664,113.58
+1104,EG1104,11,EG11,markaz,مركز كفر سعد,Kafr Saad,Kafr Saad (Markaz),مركز كفر سعد,base_2017,active,,,source,31.358827,31.603489,264.807
+1105,EG1105,11,EG11,qism,قسم مدينة دمياط الجديدة,New Damietta,New Damietta (Qism),قسم مدينه دمياط الجديده,base_2017,active,,,source,31.43883,31.705974,84.117
+1106,EG1106,11,EG11,qism,قسم رأس البر,Ras El Bar,Ras El Bar (Qism),قسم راس البر,base_2017,active,,,source,31.509657,31.83036,2.869
+1107,EG1107,11,EG11,markaz,مركز الزرقا,El Zarqa,El Zarqa (Markaz),مركز الزرقا,base_2017,active,,,source,31.208831,31.648709,67.535
+1108,EG1108,11,EG11,police_administration,إدارة شرطة ميناء دمياط الجديد,New Damietta Port Police Department,New Damietta Port Police Department,اداره شرطه ميناء دمياط الجديد,base_2017,active,,,source,31.466207,31.777663,10.983
+1109,EG1109,11,EG11,qism,قسم ثان دمياط,Damietta 2,Damietta 2 (Qism),قسم ثان دمياط,base_2017,active,,,source,31.425051,31.81854,4.814
+1201,EG1201,12,EG12,qism,قسم أول المنصورة,Mansoura 1,Mansoura 1 (Qism),قسم اول المنصوره,base_2017,active,,,source,31.028802,31.374849,10.987
+1202,EG1202,12,EG12,qism,قسم ثان المنصورة,Mansoura 2,Mansoura 2 (Qism),قسم ثان المنصوره,base_2017,active,,,source,31.047407,31.418683,19.237
+1203,EG1203,12,EG12,markaz,مركز المنصورة,Mansoura,Mansoura (Markaz),مركز المنصوره,base_2017,active,,,source,31.052795,31.467276,290.246
+1204,EG1204,12,EG12,markaz,مركز أجا,Aga,Aga (Markaz),مركز اجا,base_2017,active,,,source,30.89531,31.313467,243.812
+1205,EG1205,12,EG12,markaz,مركز السنبلاوين,Senbellawein,Senbellawein (Markaz),مركز السنبلاوين,base_2017,active,,,source,30.882681,31.512521,304.917
+1206,EG1206,12,EG12,markaz,مركز المطرية,El Matareya,El Matareya (Markaz),مركز المطريه,base_2017,active,,,source,31.190674,32.003615,36.367
+1207,EG1207,12,EG12,markaz,مركز المنزلة,El Manzala,El Manzala (Markaz),مركز المنزله,base_2017,active,,,source,31.152546,31.957998,228.406
+1208,EG1208,12,EG12,markaz,مركز بلقاس,Belqas,Belqas (Markaz),مركز بلقاس,base_2017,active,,,source,31.344036,31.379359,679.771
+1209,EG1209,12,EG12,markaz,مركز دكرنس,Dekernes,Dekernes (Markaz),مركز دكرنس,base_2017,active,,,source,31.093141,31.780144,221.848
+1210,EG1210,12,EG12,markaz,مركز شربين,Sherbin,Sherbin (Markaz),مركز شربين,base_2017,active,,,source,31.26085,31.576158,259.997
+1211,EG1211,12,EG12,markaz,مركز طلخا,Talkha,Talkha (Markaz),مركز طلخا,base_2017,active,,,source,31.109221,31.38263,147.404
+1212,EG1212,12,EG12,qism,قسم ميت غمر,Mit Ghamr,Mit Ghamr (Qism),قسم ميت غمر,base_2017,active,,,source,30.713078,31.275693,17.294
+1213,EG1213,12,EG12,markaz,مركز ميت غمر,Mit Ghamr,Mit Ghamr (Markaz),مركز ميت غمر,base_2017,active,,,source,30.708077,31.337964,235.655
+1214,EG1214,12,EG12,markaz,مركز منية النصر,Menyet El Nasr,Menyet El Nasr (Markaz),مركز منيه النصر,base_2017,active,,,source,31.153927,31.707221,186.262
+1215,EG1215,12,EG12,markaz,مركز الجمالية,El Gamaliya,El Gamaliya (Markaz),مركز الجماليه,base_2017,active,,,source,31.20508,31.852084,65.192
+1216,EG1216,12,EG12,markaz,مركز تمي الأمديد,Tami El Amdid,Tami El Amdid (Markaz),مركز تمي الامديد,base_2017,active,,,source,30.947472,31.593863,126.126
+1217,EG1217,12,EG12,markaz,مركز ميت سلسيل,Mit Salsil,Mit Salsil (Markaz),مركز ميت سلسيل,base_2017,active,,,source,31.232742,31.791713,107.313
+1218,EG1218,12,EG12,markaz,مركز بني عبيد,Bani Ebeid,Bani Ebeid (Markaz),مركز بني عبيد,base_2017,active,,,source,31.024187,31.648272,110.209
+1219,EG1219,12,EG12,markaz,مركز محلة دمنة,Mahallet Demna,Mahallet Demna (Markaz),مركز محله دمنه,base_2017,active,,,source,31.090339,31.513161,34.751
+1220,EG1220,12,EG12,qism,قسم جمصة,Gamasa,Gamasa (Qism),قسم جمصه,base_2017,active,,,source,31.438271,31.549402,3.512
+1221,EG1221,12,EG12,markaz,مركز نبروة,Nabaroh,Nabaroh (Markaz),مركز نبروه,base_2017,active,,,source,31.128564,31.296621,162.356
+1300,EG1300,13,EG13,zemam_out,خارج الزمام,Zemam Out,Zemam Out,خارج الزمام,base_2017,active,,,source,30.32695,31.718893,728.135
+1301,EG1301,13,EG13,qism,قسم أول الزقازيق,Zagazig 1,Zagazig 1 (Qism),قسم اول الزقازيق,base_2017,active,,,source,30.584742,31.513321,2.885
+1302,EG1302,13,EG13,qism,قسم ثان الزقازيق,Zagazig 2,Zagazig 2 (Qism),قسم ثان الزقازيق,base_2017,active,,,source,30.600822,31.519008,4.336
+1303,EG1303,13,EG13,markaz,مركز الزقازيق,Zagazig,Zagazig (Markaz),مركز الزقازيق,base_2017,active,,,source,30.587097,31.581337,320.624
+1304,EG1304,13,EG13,markaz,مركز أبو حماد,Abu Hammad,Abu Hammad (Markaz),مركز ابو حماد,base_2017,active,,,source,30.543308,31.649268,265.662
+1305,EG1305,13,EG13,markaz,مركز أبو كبير,Abu Kebir,Abu Kebir (Markaz),مركز ابو كبير,base_2017,active,,,source,30.732613,31.68961,191.954
+1306,EG1306,13,EG13,markaz,مركز الحسينية,El Husseiniya,El Husseiniya (Markaz),مركز الحسينيه,base_2017,active,,,source,30.923742,32.006054,1157.018
+1307,EG1307,13,EG13,qism,قسم الصالحية الجديدة,New Salhia,New Salhia (Qism),قسم الصالحيه الجديده,base_2017,active,,,source,30.634261,32.005626,545.48
+1308,EG1308,13,EG13,markaz,مركز بلبيس,Belbeis,Belbeis (Markaz),مركز بلبيس,base_2017,active,,,source,30.407526,31.531052,343.573
+1309,EG1309,13,EG13,qism,قسم أول مدينة العاشر من رمضان,10th of Ramadan 1,10th of Ramadan 1 (Qism),قسم اول مدينه العاشر من رمضان,base_2017,active,,,source,30.222369,31.732154,16.519
+1310,EG1310,13,EG13,markaz,مركز ديرب نجم,Diyarb Negm,Diyarb Negm (Markaz),مركز ديرب نجم,base_2017,active,,,source,30.752371,31.443889,216.327
+1311,EG1311,13,EG13,qism,قسم فاقوس,Faqous,Faqous (Qism),قسم فاقوس,base_2017,active,,,source,30.723424,31.798141,5.668
+1312,EG1312,13,EG13,markaz,مركز فاقوس,Faqous,Faqous (Markaz),مركز فاقوس,base_2017,active,,,source,30.749261,31.896141,413.29
+1313,EG1313,13,EG13,markaz,مركز كفر صقر,Kafr Saqr,Kafr Saqr (Markaz),مركز كفر صقر,base_2017,active,,,source,30.836651,31.674639,186.335
+1314,EG1314,13,EG13,markaz,مركز منيا القمح,Minya El Qamh,Minya El Qamh (Markaz),مركز منيا القمح,base_2017,active,,,source,30.507347,31.36907,287.032
+1315,EG1315,13,EG13,markaz,مركز ههيا,Hehia,Hehia (Markaz),مركز ههيا,base_2017,active,,,source,30.6518,31.617003,127.789
+1316,EG1316,13,EG13,markaz,مركز مشتول السوق,Mashtoul El Souk,Mashtoul El Souk (Markaz),مركز مشتول السوق,base_2017,active,,,source,30.361152,31.383379,72.161
+1317,EG1317,13,EG13,markaz,مركز الإبراهيمية,El Ibrahimiya,El Ibrahimiya (Markaz),مركز الابراهيميه,base_2017,active,,,source,30.731525,31.564196,76.222
+1318,EG1318,13,EG13,qism,قسم القنايات,El Qanayat,El Qanayat (Qism),قسم القنايات,base_2017,active,,,source,30.634539,31.470704,18.042
+1319,EG1319,13,EG13,markaz,مركز أولاد صقر,Awlad Saqr,Awlad Saqr (Markaz),مركز اولاد صقر,base_2017,active,,,source,30.969347,31.776948,311.394
+1320,EG1320,13,EG13,qism,قسم القرين,El Qurein,El Qurein (Qism),قسم القرين,base_2017,active,,,source,30.610513,31.742397,21.592
+1321,EG1321,13,EG13,qism,قسم ثان مدينة العاشر من رمضان,10th of Ramadan 2,10th of Ramadan 2 (Qism),قسم ثان مدينه العاشر من رمضان,base_2017,active,,,source,30.238349,31.700353,21.916
+1400,EG1400,14,EG14,zemam_out,خارج الزمام,Zemam Out,Zemam Out,خارج الزمام,base_2017,active,,,source,30.240106,31.514424,125.068
+1401,EG1401,14,EG14,qism,قسم بنها,Banha,Banha (Qism),قسم بنها,base_2017,split,,,source,30.465967,31.190221,12.411
+1402,EG1402,14,EG14,markaz,مركز بنها,Banha,Banha (Markaz),مركز بنها,base_2017,active,,,source,30.442661,31.247952,163.392
+1403,EG1403,14,EG14,markaz,مركز الخانكة,El Khanka,El Khanka (Markaz),مركز الخانكه,base_2017,active,,,source,30.230516,31.357853,122.347
+1404,EG1404,14,EG14,markaz,مركز القناطر الخيرية,El Qanater El Khayreya,El Qanater El Khayreya (Markaz),مركز القناطر الخيريه,base_2017,active,,,source,30.213941,31.135146,102.441
+1405,EG1405,14,EG14,markaz,مركز شبين القناطر,Shibin El Qanater,Shibin El Qanater (Markaz),مركز شبين القناطر,base_2017,active,,,source,30.296171,31.306936,142.706
+1406,EG1406,14,EG14,qism,قسم أول شبرا الخيمة,Shubra El Kheima 1,Shubra El Kheima 1 (Qism),قسم اول شبرا الخيمه,base_2017,active,,,source,30.131677,31.248333,10.361
+1407,EG1407,14,EG14,qism,قسم ثان شبرا الخيمة,Shubra El Kheima 2,Shubra El Kheima 2 (Qism),قسم ثان شبرا الخيمه,base_2017,active,,,source,30.135348,31.285183,17.236
+1408,EG1408,14,EG14,markaz,مركز طوخ,Toukh,Toukh (Markaz),مركز طوخ,base_2017,active,,,source,30.344205,31.190263,212.368
+1409,EG1409,14,EG14,qism,قسم قليوب,Qalyub,Qalyub (Qism),قسم قليوب,base_2017,active,,,source,30.179968,31.215827,24.788
+1410,EG1410,14,EG14,markaz,مركز قليوب,Qalyub,Qalyub (Markaz),مركز قليوب,base_2017,active,,,source,30.207006,31.214185,97.278
+1411,EG1411,14,EG14,markaz,مركز كفر شكر,Kafr Shukr,Kafr Shukr (Markaz),مركز كفر شكر,base_2017,active,,,source,30.554389,31.274731,60.409
+1412,EG1412,14,EG14,qism,قسم الخصوص,El Khosous,El Khosous (Qism),قسم الخصوص,base_2017,active,,,source,30.157222,31.317595,5.7
+1413,EG1413,14,EG14,qism,قسم العبور,El Obour,El Obour (Qism),قسم العبور,base_2017,active,,,source,30.224754,31.447415,16.934
+1414,EG1414,14,EG14,qism,قسم قها,Qaha,Qaha (Qism),قسم قها,base_2017,active,,,source,30.293283,31.215145,18.663
+1501,EG1501,15,EG15,qism,قسم كفر الشيخ,Kafr El Sheikh,Kafr El Sheikh (Qism),قسم كفر الشيخ,base_2017,split,,,source,31.119046,30.94146,23.762
+1502,EG1502,15,EG15,markaz,مركز كفر الشيخ,Kafr El Sheikh,Kafr El Sheikh (Markaz),مركز كفر الشيخ,base_2017,active,,,source,31.200206,31.016086,393.668
+1503,EG1503,15,EG15,markaz,مركز البرلس,Burullus,Burullus (Markaz),مركز البرلس,base_2017,active,,,source,31.521411,31.273314,249.564
+1504,EG1504,15,EG15,markaz,مركز بيلا,Biyala,Biyala (Markaz),مركز بيلا,base_2017,active,,,source,31.319501,31.247847,374.668
+1505,EG1505,15,EG15,qism,قسم دسوق,Desouk,Desouk (Qism),قسم دسوق,base_2017,active,,,source,31.145121,30.648896,7.999
+1506,EG1506,15,EG15,markaz,مركز دسوق,Desouk,Desouk (Markaz),مركز دسوق,base_2017,active,,,source,31.149551,30.719839,299.886
+1507,EG1507,15,EG15,markaz,مركز سيدي سالم,Sidi Salem,Sidi Salem (Markaz),مركز سيدي سالم,base_2017,active,,,source,31.310179,30.738141,491.294
+1508,EG1508,15,EG15,markaz,مركز فوة,Fuwwah,Fuwwah (Markaz),مركز فوه,base_2017,active,,,source,31.232002,30.563741,94.824
+1509,EG1509,15,EG15,markaz,مركز قلين,Qallin,Qallin (Markaz),مركز قلين,base_2017,active,,,source,31.085285,30.817323,154.16
+1510,EG1510,15,EG15,markaz,مركز مطوبس,Motobas,Motobas (Markaz),مركز مطوبس,base_2017,active,,,source,31.382914,30.469924,268.609
+1511,EG1511,15,EG15,markaz,مركز الحامول,El Hamoul,El Hamoul (Markaz),مركز الحامول,base_2017,active,,,source,31.387515,31.075328,634.493
+1512,EG1512,15,EG15,markaz,مركز الرياض,El Reyad,El Reyad (Markaz),مركز الرياض,base_2017,active,,,source,31.320668,30.920361,272.13
+1601,EG1601,16,EG16,qism,قسم أول طنطا,Tanta 1,Tanta 1 (Qism),قسم اول طنطا,base_2017,active,,,source,30.795389,31.014264,12.045
+1602,EG1602,16,EG16,qism,قسم ثان طنطا,Tanta 2,Tanta 2 (Qism),قسم ثان طنطا,base_2017,active,,,source,30.785918,30.98924,10.379
+1603,EG1603,16,EG16,markaz,مركز طنطا,Tanta,Tanta (Markaz),مركز طنطا,base_2017,active,,,source,30.809335,30.931995,315.453
+1604,EG1604,16,EG16,markaz,مركز السنطة,El Santa,El Santa (Markaz),مركز السنطه,base_2017,active,,,source,30.773197,31.118842,218.045
+1605,EG1605,16,EG16,qism,قسم أول المحلة الكبرى,El Mahalla El Kubra 1,El Mahalla El Kubra 1 (Qism),قسم اول المحله الكبري,base_2017,active,,,source,30.971963,31.171854,8.398
+1606,EG1606,16,EG16,qism,قسم ثان المحلة الكبرى,El Mahalla El Kubra 2,El Mahalla El Kubra 2 (Qism),قسم ثان المحله الكبري,base_2017,active,,,source,30.971411,31.157138,13.732
+1607,EG1607,16,EG16,markaz,مركز المحلة الكبرى,El Mahalla El Kubra,El Mahalla El Kubra (Markaz),مركز المحله الكبري,base_2017,active,,,source,31.017365,31.130378,433.631
+1608,EG1608,16,EG16,markaz,مركز بسيون,Basyoun,Basyoun (Markaz),مركز بسيون,base_2017,active,,,source,30.9589,30.827065,165.892
+1609,EG1609,16,EG16,markaz,مركز زفتى,Zefta,Zefta (Markaz),مركز زفتي,base_2017,active,,,source,30.728216,31.215303,210.96
+1610,EG1610,16,EG16,markaz,مركز سمنود,Samannoud,Samannoud (Markaz),مركز سمنود,base_2017,active,,,source,30.950441,31.221318,152.534
+1611,EG1611,16,EG16,markaz,مركز قطور,Qutur,Qutur (Markaz),مركز قطور,base_2017,active,,,source,30.970518,30.970007,237.056
+1612,EG1612,16,EG16,markaz,مركز كفر الزيات,Kafr El Zayat,Kafr El Zayat (Markaz),مركز كفر الزيات,base_2017,active,,,source,30.807175,30.83529,195.79
+1701,EG1701,17,EG17,qism,قسم شبين الكوم,Shibin El Kom,Shibin El Kom (Qism),قسم شبين الكوم,base_2017,active,,,source,30.555801,30.999899,23.441
+1702,EG1702,17,EG17,markaz,مركز شبين الكوم,Shibin El Kom,Shibin El Kom (Markaz),مركز شبين الكوم,base_2017,active,,,source,30.560636,30.953654,161.533
+1703,EG1703,17,EG17,markaz,مركز أشمون,Ashmoun,Ashmoun (Markaz),مركز اشمون,base_2017,active,,,source,30.299215,31.008326,303.061
+1704,EG1704,17,EG17,markaz,مركز الباجور,El Bagour,El Bagour (Markaz),مركز الباجور,base_2017,active,,,source,30.4127,31.032496,166.058
+1705,EG1705,17,EG17,markaz,مركز الشهداء,El Shohada,El Shohada (Markaz),مركز الشهداء,base_2017,active,,,source,30.601071,30.86987,155.542
+1706,EG1706,17,EG17,markaz,مركز بركة السبع,Berket El Sabaa,Berket El Sabaa (Markaz),مركز بركه السبع,base_2017,active,,,source,30.651299,31.108141,120.165
+1707,EG1707,17,EG17,markaz,مركز تلا,Tala,Tala (Markaz),مركز تلا,base_2017,active,,,source,30.669929,30.94573,188.926
+1708,EG1708,17,EG17,markaz,مركز قويسنا,Quweisna,Quweisna (Markaz),مركز قويسنا,base_2017,active,,,source,30.559636,31.163235,204.578
+1709,EG1709,17,EG17,markaz,مركز منوف,Menouf,Menouf (Markaz),مركز منوف,base_2017,active,,,source,30.459668,30.880987,186.8
+1710,EG1710,17,EG17,qism,قسم سرس الليان,Sirs El Layyan,Sirs El Layyan (Qism),قسم سرس الليان,base_2017,active,,,source,30.444663,30.968741,16.75
+1711,EG1711,17,EG17,markaz,مركز السادات,Sadat City,Sadat City (Markaz),مركز السادات,base_2017,active,,,source,30.358457,30.661348,601.385
+1712,EG1712,17,EG17,qism,قسم مدينة منوف,Menouf City,Menouf City (Qism),قسم مدينه منوف,base_2017,active,,,source,30.46226,30.930889,18.048
+1800,EG1800,18,EG18,zemam_out,خارج الزمام,Zemam Out,Zemam Out,خارج الزمام,base_2017,active,,,source,30.260048,30.30642,3453.113
+1801,EG1801,18,EG18,qism,قسم دمنهور,Damanhour,Damanhour (Qism),قسم دمنهور,base_2017,active,,,source,31.048981,30.462509,16.3
+1802,EG1802,18,EG18,markaz,مركز دمنهور,Damanhour,Damanhour (Markaz),مركز دمنهور,base_2017,active,,,source,31.031746,30.527136,373.671
+1803,EG1803,18,EG18,markaz,مركز أبو المطامير,Abu El Matamir,Abu El Matamir (Markaz),مركز ابو المطامير,base_2017,active,,,source,30.773127,30.144141,1605.194
+1804,EG1804,18,EG18,markaz,مركز أبو حمص,Abu Hummus,Abu Hummus (Markaz),مركز ابو حمص,base_2017,active,,,source,31.105849,30.310295,535.237
+1805,EG1805,18,EG18,markaz,مركز الدلنجات,El Delengat,El Delengat (Markaz),مركز الدلنجات,base_2017,active,,,source,30.810122,30.489957,532.119
+1806,EG1806,18,EG18,markaz,مركز المحمودية,El Mahmoudiyah,El Mahmoudiyah (Markaz),مركز المحموديه,base_2017,active,,,source,31.196918,30.488069,163.169
+1807,EG1807,18,EG18,markaz,مركز إيتاي البارود,Itay El Barud,Itay El Barud (Markaz),مركز ايتاي البارود,base_2017,active,,,source,30.885585,30.656015,302.207
+1808,EG1808,18,EG18,markaz,مركز حوش عيسى,Hosh Issa,Hosh Issa (Markaz),مركز حوش عيسي,base_2017,active,,,source,30.891218,30.345758,275.127
+1809,EG1809,18,EG18,markaz,مركز رشيد,Rashid,Rashid (Markaz),مركز رشيد,base_2017,active,,,source,31.378759,30.374965,185.042
+1810,EG1810,18,EG18,markaz,مركز شبراخيت,Shubrakhit,Shubrakhit (Markaz),مركز شبراخيت,base_2017,active,,,source,31.002708,30.678797,189.748
+1811,EG1811,18,EG18,qism,قسم كفر الدوار,Kafr El Dawar,Kafr El Dawar (Qism),قسم كفر الدوار,base_2017,active,,,source,31.137273,30.132946,28.84
+1812,EG1812,18,EG18,markaz,مركز كفر الدوار,Kafr El Dawar,Kafr El Dawar (Markaz),مركز كفر الدوار,base_2017,active,,,source,31.128821,30.037574,526.577
+1813,EG1813,18,EG18,markaz,مركز كوم حمادة,Kom Hamada,Kom Hamada (Markaz),مركز كوم حماده,base_2017,active,,,source,30.654147,30.773919,324.794
+1814,EG1814,18,EG18,markaz,مركز وادي النطرون,Wadi El Natrun,Wadi El Natrun (Markaz),مركز وادي النطرون,base_2017,active,,,source,30.429602,30.312566,15.024
+1815,EG1815,18,EG18,markaz,مركز الرحمانية,El Rahmaniya,El Rahmaniya (Markaz),مركز الرحمانيه,base_2017,active,,,source,31.106238,30.583943,120.288
+1816,EG1816,18,EG18,markaz,مركز إدكو,Edku,Edku (Markaz),مركز ادكو,base_2017,active,,,source,31.298259,30.324933,155.829
+1817,EG1817,18,EG18,qism,قسم غرب النوبارية,West Nubariya,West Nubariya (Qism),قسم غرب النوباريه,base_2017,active,,,source,30.424861,29.897256,1786.355
+1818,EG1818,18,EG18,markaz,مركز بدر,Badr,Badr (Markaz),مركز بدر,base_2017,active,,,source,30.546712,30.678582,758.54
+1901,EG1901,19,EG19,qism,قسم أول الإسماعيلية,Ismailia 1,Ismailia 1 (Qism),قسم اول الاسماعيليه,base_2017,active,,,source,30.606329,32.310939,15.852
+1902,EG1902,19,EG19,qism,قسم ثان الإسماعيلية,Ismailia 2,Ismailia 2 (Qism),قسم ثان الاسماعيليه,base_2017,active,,,source,30.613701,32.260345,20.049
+1903,EG1903,19,EG19,qism,قسم ثالث الإسماعيلية,Ismailia 3,Ismailia 3 (Qism),قسم ثالث الاسماعيليه,base_2017,active,,,source,30.612191,32.291044,10.249
+1904,EG1904,19,EG19,markaz,مركز الإسماعيلية,Ismailia,Ismailia (Markaz),مركز الاسماعيليه,base_2017,active,,,source,30.426153,32.183342,858.692
+1905,EG1905,19,EG19,markaz,مركز التل الكبير,El Tal El Kabir,El Tal El Kabir (Markaz),مركز التل الكبير,base_2017,active,,,source,30.418164,31.932593,804.964
+1906,EG1906,19,EG19,markaz,مركز القنطرة غرب,Qantara West,Qantara West (Markaz),مركز القنطره غرب,base_2017,active,,,source,30.741756,32.244617,494.038
+1907,EG1907,19,EG19,markaz,مركز فايد,Fayed,Fayed (Markaz),مركز فايد,base_2017,active,,,source,30.366274,32.291832,127.764
+1908,EG1908,19,EG19,qism,قسم القنطرة شرق,Qantara East,Qantara East (Qism),قسم القنطره شرق,base_2017,active,,,source,30.603266,32.550168,3127.308
+2100,EG2100,21,EG21,zemam_out,خارج الزمام,Zemam Out,Zemam Out,خارج الزمام,base_2017,active,,,source,28.935355,29.391946,34985.855
+2101,EG2101,21,EG21,qism,قسم إمبابة,Imbaba,Imbaba (Qism),قسم امبابه,base_2017,active,,,source,30.083204,31.210381,8.603
+2102,EG2102,21,EG21,qism,قسم العجوزة,El Agouza,El Agouza (Qism),قسم العجوزه,base_2017,active,,,source,30.058988,31.204325,5.415
+2103,EG2103,21,EG21,qism,قسم الدقي,Dokki,Dokki (Qism),قسم الدقي,base_2017,active,,,source,30.04242,31.208223,5.211
+2104,EG2104,21,EG21,qism,قسم الجيزة,Giza,Giza (Qism),قسم الجيزه,base_2017,active,,,source,29.999477,31.215788,11.504
+2105,EG2105,21,EG21,qism,قسم بولاق الدكرور,Bulaq El Dakrour,Bulaq El Dakrour (Qism),قسم بولاق الدكرور,base_2017,active,,,source,30.030273,31.190019,9.224
+2106,EG2106,21,EG21,qism,قسم الأهرام,El Haram,El Haram (Qism),قسم الاهرام,base_2017,active,,,source,29.990213,31.136349,20.098
+2107,EG2107,21,EG21,qism,قسم أول 6 أكتوبر,6th of October 1,6th of October 1 (Qism),قسم اول 6 اكتوبر,base_2017,active,,,source,29.985378,30.962842,32.901
+2108,EG2108,21,EG21,qism,قسم الحوامدية,El Hawamdeya,El Hawamdeya (Qism),قسم الحوامديه,base_2017,active,,,source,29.902253,31.252798,20.239
+2109,EG2109,21,EG21,markaz,مركز الجيزة,Giza,Giza (Markaz),مركز الجيزه,base_2017,active,,,source,29.943176,31.212722,56.287
+2110,EG2110,21,EG21,markaz,مركز البدرشين,El Badrashin,El Badrashin (Markaz),مركز البدرشين,base_2017,active,,,source,29.823654,31.258315,118.671
+2111,EG2111,21,EG21,markaz,مركز الصف,El Saff,El Saff (Markaz),مركز الصف,base_2017,active,,,source,29.619878,31.30467,130.282
+2112,EG2112,21,EG21,markaz,مركز العياط,El Ayat,El Ayat (Markaz),مركز العياط,base_2017,active,,,source,29.56421,31.249812,162.065
+2113,EG2113,21,EG21,markaz,مركز إمبابة,Imbaba,Imbaba (Markaz),مركز امبابه,base_2017,active,,,source,30.219918,30.962747,201.268
+2114,EG2114,21,EG21,qism,قسم الواحات البحرية,Bahariya Oasis,Bahariya Oasis (Qism),قسم الواحات البحريه,base_2017,active,,,source,28.452129,28.836331,172.684
+2115,EG2115,21,EG21,markaz,مركز أطفيح,Atfih,Atfih (Markaz),مركز اطفيح,base_2017,active,,,source,29.34272,31.250162,120.499
+2116,EG2116,21,EG21,markaz,مركز أوسيم,Ausim,Ausim (Markaz),مركز اوسيم,base_2017,active,,,source,30.131647,31.141535,51.469
+2117,EG2117,21,EG21,qism,قسم الوراق,El Warraq,El Warraq (Qism),قسم الوراق,base_2017,active,,,source,30.096814,31.189251,27.609
+2118,EG2118,21,EG21,qism,قسم العمرانية,El Omraniya,El Omraniya (Qism),قسم العمرانيه,base_2017,active,,,source,29.992891,31.177432,17.527
+2119,EG2119,21,EG21,qism,قسم الشيخ زايد,Sheikh Zayed,Sheikh Zayed (Qism),قسم الشيخ زايد,base_2017,active,,,source,30.048983,30.977963,39.339
+2120,EG2120,21,EG21,markaz,مركز كرداسة,Kerdasa,Kerdasa (Markaz),مركز كرداسه,base_2017,active,,,source,30.051455,31.134498,76.242
+2121,EG2121,21,EG21,qism,قسم ثان 6 أكتوبر,6th of October 2,6th of October 2 (Qism),قسم ثان 6 اكتوبر,base_2017,active,,,source,29.94086,30.907852,53.426
+2200,EG2200,22,EG22,zemam_out,خارج الزمام,Zemam Out,Zemam Out,خارج الزمام,base_2017,active,,,source,28.723235,31.341258,9022.194
+2201,EG2201,22,EG22,qism,قسم بني سويف,Beni Suef,Beni Suef (Qism),قسم بني سويف,base_2017,active,,,source,29.076806,31.09735,18.089
+2202,EG2202,22,EG22,markaz,مركز بني سويف,Beni Suef,Beni Suef (Markaz),مركز بني سويف,base_2017,active,,,source,29.098149,31.041698,177.205
+2203,EG2203,22,EG22,qism,قسم مدينة بني سويف الجديدة,New Beni Suef City,New Beni Suef City (Qism),قسم مدينه بني سويف الجديده,base_2017,active,,,source,28.982262,31.159474,226.971
+2204,EG2204,22,EG22,markaz,مركز الفشن,El Fashn,El Fashn (Markaz),مركز الفشن,base_2017,active,,,source,28.808798,30.827387,252.502
+2205,EG2205,22,EG22,markaz,مركز الواسطى,El Wasta,El Wasta (Markaz),مركز الواسطي,base_2017,active,,,source,29.323998,31.170243,195.784
+2206,EG2206,22,EG22,markaz,مركز أهناسيا,Ihnasya,Ihnasya (Markaz),مركز اهناسيا,base_2017,active,,,source,29.101613,30.9432,204.377
+2207,EG2207,22,EG22,markaz,مركز ببا,Beba,Beba (Markaz),مركز ببا,base_2017,active,,,source,28.951389,30.96711,180.97
+2208,EG2208,22,EG22,markaz,مركز سمسطا,Somosta,Somosta (Markaz),مركز سمسطا,base_2017,active,,,source,28.950521,30.865815,130.785
+2209,EG2209,22,EG22,markaz,مركز ناصر,Nasser,Nasser (Markaz),مركز ناصر,base_2017,active,,,source,29.186593,31.078318,204.419
+2300,EG2300,23,EG23,zemam_out,خارج الزمام,Zemam Out,Zemam Out,خارج الزمام,base_2017,active,,,source,29.347369,30.344374,3535.278
+2301,EG2301,23,EG23,qism,قسم الفيوم,Faiyum,Faiyum (Qism),قسم الفيوم,base_2017,split,,,source,29.314014,30.839387,23.817
+2302,EG2302,23,EG23,markaz,مركز الفيوم,Faiyum,Faiyum (Markaz),مركز الفيوم,base_2017,active,,,source,29.299552,30.955278,370.249
+2303,EG2303,23,EG23,markaz,مركز إبشواي,Ibshaway,Ibshaway (Markaz),مركز ابشواي,base_2017,active,,,source,29.37437,30.690101,158.3
+2304,EG2304,23,EG23,markaz,مركز أطسا,Itsa,Itsa (Markaz),مركز اطسا,base_2017,active,,,source,29.20836,30.767263,452.498
+2305,EG2305,23,EG23,markaz,مركز سنورس,Sinnuris,Sinnuris (Markaz),مركز سنورس,base_2017,active,,,source,29.441178,30.815041,231.546
+2306,EG2306,23,EG23,markaz,مركز طامية,Tamiya,Tamiya (Markaz),مركز طاميه,base_2017,active,,,source,29.467475,30.981559,302.484
+2307,EG2307,23,EG23,markaz,مركز يوسف الصديق,Youssef El Seddik,Youssef El Seddik (Markaz),مركز يوسف الصديق,base_2017,active,,,source,29.353305,30.586409,236.683
+2308,EG2308,23,EG23,new_city,مدينة الفيوم الجديدة,New Faiyum City,New Faiyum City,مدينه الفيوم الجديده,base_2017,active,,,source,29.208419,30.881732,8.195
+2400,EG2400,24,EG24,zemam_out,خارج الزمام,Zemam Out,Zemam Out,خارج الزمام,base_2017,active,,,source,28.159704,31.623365,28793.194
+2401,EG2401,24,EG24,qism,قسم المنيا,Minya,Minya (Qism),قسم المنيا,base_2017,split,,,source,28.095274,30.744194,21.795
+2402,EG2402,24,EG24,markaz,مركز المنيا,Minya,Minya (Markaz),مركز المنيا,base_2017,active,,,source,28.101163,30.640665,356.243
+2403,EG2403,24,EG24,new_city,مدينة المنيا الجديدة,New Minya City,New Minya City,مدينه المنيا الجديده,base_2017,active,,,source,28.109647,30.788319,15.657
+2404,EG2404,24,EG24,markaz,مركز أبو قرقاص,Abu Qurqas,Abu Qurqas (Markaz),مركز ابو قرقاص,base_2017,active,,,source,27.939147,30.770222,279.418
+2405,EG2405,24,EG24,markaz,مركز العدوة,El Idwa,El Idwa (Markaz),مركز العدوه,base_2017,active,,,source,28.696202,30.73952,178.092
+2406,EG2406,24,EG24,markaz,مركز بني مزار,Beni Mazar,Beni Mazar (Markaz),مركز بني مزار,base_2017,active,,,source,28.518277,30.731077,280.115
+2407,EG2407,24,EG24,markaz,مركز دير مواس,Deir Mawas,Deir Mawas (Markaz),مركز دير مواس,base_2017,active,,,source,27.654679,30.790327,195.85
+2408,EG2408,24,EG24,markaz,مركز سمالوط,Samalut,Samalut (Markaz),مركز سمالوط,base_2017,split,,,source,28.28469,30.629401,468.492
+2409,EG2409,24,EG24,markaz,مركز مطاى,Matay,Matay (Markaz),مركز مطاي,base_2017,active,,,source,28.430946,30.709752,169.03
+2410,EG2410,24,EG24,markaz,مركز مغاغة,Maghagha,Maghagha (Markaz),مركز مغاغه,base_2017,active,,,source,28.640557,30.79439,224.989
+2411,EG2411,24,EG24,qism,قسم ملوي,Mallawi,Mallawi (Qism),قسم ملوي,base_2017,active,,,source,27.729107,30.837485,17.964
+2412,EG2412,24,EG24,markaz,مركز ملوي,Mallawi,Mallawi (Markaz),مركز ملوي,base_2017,active,,,source,27.774872,30.801248,294.508
+2500,EG2500,25,EG25,zemam_out,صحراء أسيوط,Zemam Out,Zemam Out,صحراء اسيوط,base_2017,active,,,source,27.358478,31.798797,14993.507
+2501,EG2501,25,EG25,qism,قسم أول أسيوط,Asyut 1,Asyut 1 (Qism),قسم اول اسيوط,base_2017,active,,,source,27.186107,31.153635,13.762
+2502,EG2502,25,EG25,qism,قسم ثان أسيوط,Asyut 2,Asyut 2 (Qism),قسم ثان اسيوط,base_2017,active,,,source,27.193215,31.17876,12.753
+2503,EG2503,25,EG25,markaz,مركز أسيوط,Asyut,Asyut (Markaz),مركز اسيوط,base_2017,active,,,source,27.116779,31.232154,203.09
+2504,EG2504,25,EG25,markaz,مركز أبنوب,Abnub,Abnub (Markaz),مركز ابنوب,base_2017,active,,,source,27.294926,31.105991,128.011
+2505,EG2505,25,EG25,markaz,مركز أبو تيج,Abu Tig,Abu Tig (Markaz),مركز ابو تيج,base_2017,active,,,source,27.03655,31.288897,133.751
+2506,EG2506,25,EG25,markaz,مركز البدارى,El Badari,El Badari (Markaz),مركز البداري,base_2017,active,,,source,26.946463,31.456201,69.517
+2507,EG2507,25,EG25,markaz,مركز ساحل سليم,Sahel Selim,Sahel Selim (Markaz),مركز ساحل سليم,base_2017,active,,,source,27.09305,31.349355,50.916
+2508,EG2508,25,EG25,markaz,مركز الغنايم,El Ghanayem,El Ghanayem (Markaz),مركز الغنايم,base_2017,active,,,source,26.92173,31.328637,45.849
+2509,EG2509,25,EG25,markaz,مركز القوصية,El Qusiya,El Qusiya (Markaz),مركز القوصيه,base_2017,active,,,source,27.403016,30.826378,188.561
+2510,EG2510,25,EG25,markaz,مركز ديروط,Dairut,Dairut (Markaz),مركز ديروط,base_2017,active,,,source,27.537117,30.782224,221.656
+2511,EG2511,25,EG25,markaz,مركز صدفا,Sedfa,Sedfa (Markaz),مركز صدفا,base_2017,active,,,source,26.943308,31.37956,80.216
+2512,EG2512,25,EG25,markaz,مركز منفلوط,Manfalut,Manfalut (Markaz),مركز منفلوط,base_2017,active,,,source,27.294238,30.951201,197.038
+2513,EG2513,25,EG25,markaz,مركز الفتح,El Fath,El Fath (Markaz),مركز الفتح,base_2017,active,,,source,27.218066,31.211897,78.636
+2514,EG2514,25,EG25,new_city,مدينة أسيوط الجديدة,New Asyut City,New Asyut City,مدينه اسيوط الجديده,base_2017,active,,,source,27.254307,31.280857,10.931
+2600,EG2600,26,EG26,zemam_out,صحراء سوهاج,Zemam Out,Zemam Out,صحراء سوهاج,base_2017,active,,,source,26.727036,32.193196,8409.988
+2601,EG2601,26,EG26,qism,قسم أول سوهاج,Sohag 1,Sohag 1 (Qism),قسم اول سوهاج,base_2017,active,,,source,26.546529,31.693395,5.78
+2602,EG2602,26,EG26,qism,قسم ثان سوهاج,Sohag 2,Sohag 2 (Qism),قسم ثان سوهاج,base_2017,active,,,source,26.54325,31.702703,3.039
+2603,EG2603,26,EG26,markaz,مركز سوهاج,Sohag,Sohag (Markaz),مركز سوهاج,base_2017,active,,,source,26.547034,31.65485,168.025
+2604,EG2604,26,EG26,markaz,مركز أخميم,Akhmim,Akhmim (Markaz),مركز اخميم,base_2017,active,,,source,26.550829,31.714797,82.026
+2605,EG2605,26,EG26,markaz,مركز البلينا,El Balyana,El Balyana (Markaz),مركز البلينا,base_2017,active,,,source,26.241004,31.944295,151.141
+2606,EG2606,26,EG26,markaz,مركز المراغة,El Maragha,El Maragha (Markaz),مركز المراغه,base_2017,active,,,source,26.668776,31.587705,154.22
+2607,EG2607,26,EG26,markaz,مركز المنشأة,El Monshaa,El Monshaa (Markaz),مركز المنشاه,base_2017,active,,,source,26.464185,31.755775,125.801
+2608,EG2608,26,EG26,markaz,مركز دار السلام,Dar El Salam,Dar El Salam (Markaz),مركز دار السلام,base_2017,active,,,source,26.273691,32.043442,181.751
+2609,EG2609,26,EG26,qism,قسم جرجا,Girga,Girga (Qism),قسم جرجا,base_2017,active,,,source,26.348162,31.888248,6.571
+2610,EG2610,26,EG26,markaz,مركز جرجا,Girga,Girga (Markaz),مركز جرجا,base_2017,active,,,source,26.30675,31.866795,130.668
+2611,EG2611,26,EG26,markaz,مركز جهينة الغربية,Juhayna West,Juhayna West (Markaz),مركز جهينه الغربيه,base_2017,active,,,source,26.688683,31.470529,122.293
+2612,EG2612,26,EG26,markaz,مركز ساقلته,Saqulta,Saqulta (Markaz),مركز ساقلته,base_2017,active,,,source,26.691887,31.663324,61.379
+2613,EG2613,26,EG26,markaz,مركز طما,Tama,Tama (Markaz),مركز طما,base_2017,active,,,source,26.873526,31.421718,147.998
+2614,EG2614,26,EG26,markaz,مركز طهطا,Tahta,Tahta (Markaz),مركز طهطا,base_2017,active,,,source,26.785395,31.420074,139.428
+2615,EG2615,26,EG26,qism,قسم طهطا,Tahta,Tahta (Qism),قسم طهطا,base_2017,active,,,source,26.766516,31.492064,13.116
+2616,EG2616,26,EG26,qism,قسم الكوثر,El Kawthar,El Kawthar (Qism),قسم الكوثر,base_2017,active,,,source,26.555466,31.72228,1.391
+2617,EG2617,26,EG26,markaz,مركز العسيرات,El Oseirat,El Oseirat (Markaz),مركز العسيرات,base_2017,active,,,source,26.40082,31.814812,59.349
+2618,EG2618,26,EG26,new_city,مدينة أخميم الجديدة,New Akhmim City,New Akhmim City,مدينه اخميم الجديده,base_2017,active,,,source,26.523752,31.865157,14.672
+2619,EG2619,26,EG26,new_city,مدينة سوهاج الجديدة,New Sohag City,New Sohag City,مدينه سوهاج الجديده,base_2017,active,,,source,26.484983,31.649073,14.555
+2700,EG2700,27,EG27,zemam_out,صحراء قنا,Zemam Out,Zemam Out,صحراء قنا,base_2017,active,,,source,25.966031,33.190545,11542.146
+2701,EG2701,27,EG27,qism,قسم قنا,Qena,Qena (Qism),قسم قنا,base_2017,active,,,source,26.165111,32.712376,24.155
+2702,EG2702,27,EG27,markaz,مركز قنا,Qena,Qena (Markaz),مركز قنا,base_2017,active,,,source,26.162569,32.577704,179.604
+2703,EG2703,27,EG27,markaz,مركز أبو تشت,Abu Tesht,Abu Tesht (Markaz),مركز ابو تشت,base_2017,active,,,source,26.129605,32.08623,176.594
+2704,EG2704,29,EG29,markaz,مركز أرمنت,Armant,Armant (Markaz),مركز ارمنت,base_2017,active,,,source,25.611697,32.491944,119.902
+2705,EG2705,29,EG29,markaz,مركز إسنا,Esna,Esna (Markaz),مركز اسنا,base_2017,active,,,source,25.364931,32.519706,235.425
+2706,EG2706,27,EG27,markaz,مركز دشنا,Dishna,Dishna (Markaz),مركز دشنا,base_2017,active,,,source,26.141873,32.443777,180.938
+2707,EG2707,27,EG27,markaz,مركز قوص,Qus,Qus (Markaz),مركز قوص,base_2017,active,,,source,25.856922,32.788811,144.249
+2708,EG2708,27,EG27,markaz,مركز نجع حمادى,Nag Hammadi,Nag Hammadi (Markaz),مركز نجع حمادي,base_2017,active,,,source,26.085238,32.297161,184.531
+2709,EG2709,27,EG27,markaz,مركز نقادة,Naqada,Naqada (Markaz),مركز نقاده,base_2017,active,,,source,25.890319,32.710564,94.628
+2710,EG2710,27,EG27,markaz,مركز فرشوط,Farshut,Farshut (Markaz),مركز فرشوط,base_2017,active,,,source,26.056127,32.149481,66.495
+2711,EG2711,27,EG27,markaz,مركز قفط,Qift,Qift (Markaz),مركز قفط,base_2017,active,,,source,25.997702,32.82686,60.435
+2712,EG2712,27,EG27,markaz,مركز الوقف,El Waqf,El Waqf (Markaz),مركز الوقف,base_2017,active,,,source,26.084385,32.448428,40.655
+2713,EG2713,27,EG27,new_city,مدينة قنا الجديدة,New Qena City,New Qena City,مدينه قنا الجديده,base_2017,active,,,source,26.173377,32.761215,7.905
+2800,EG2800,28,EG28,zemam_out,خارج الزمام,Zemam Out,Zemam Out,خارج الزمام,base_2017,active,,,source,23.593534,32.262812,56378.75
+2801,EG2801,28,EG28,qism,قسم أسوان,Aswan,Aswan (Qism),قسم اسوان,base_2017,split,,,source,24.062805,32.901469,42.536
+2802,EG2802,28,EG28,markaz,مركز أسوان,Aswan,Aswan (Markaz),مركز اسوان,base_2017,active,,,source,23.971731,32.83078,129.96
+2803,EG2803,28,EG28,markaz,مركز إدفو,Edfu,Edfu (Markaz),مركز ادفو,base_2017,active,,,source,25.06094,32.95673,274.529
+2804,EG2804,28,EG28,markaz,مركز كوم أمبو,Kom Ombo,Kom Ombo (Markaz),مركز كوم امبو,base_2017,active,,,source,24.479974,32.946513,252.057
+2805,EG2805,28,EG28,markaz,مركز نصر,Nasr El Nuba,Nasr El Nuba (Markaz),مركز نصر,base_2017,active,,,source,24.373014,32.931592,189.035
+2806,EG2806,28,EG28,markaz,مركز دراو,Daraw,Daraw (Markaz),مركز دراو,base_2017,active,,,source,24.325552,33.000585,65.014
+2807,EG2807,28,EG28,markaz,مركز أبو سمبل,Abu Simbel,Abu Simbel (Markaz),مركز ابو سمبل,base_2017,active,,,source,22.624315,32.599087,127.02
+2808,EG2808,28,EG28,new_city,مدينة أسوان الجديدة,New Aswan City,New Aswan City,مدينه اسوان الجديده,base_2017,active,,,source,24.067507,32.982831,25.359
+2809,EG2809,28,EG28,new_city,مدينة توشكى الجديدة,New Toshka City,New Toshka City,مدينه توشكي الجديده,base_2017,active,,,source,22.856426,31.660904,249.413
+2900,EG2900,29,EG29,zemam_out,خارج الزمام,Zemam Out,Zemam Out,خارج الزمام,base_2017,active,,,source,25.634213,32.716164,378.514
+2901,EG2901,29,EG29,qism,قسم الأقصر,Luxor,Luxor (Qism),قسم الاقصر,base_2017,active,,,source,25.707125,32.669836,51.697
+2902,EG2902,29,EG29,markaz,مركز الأقصر,Luxor,Luxor (Markaz),مركز الاقصر,base_2017,active,,,source,25.684511,32.588417,118.906
+2903,EG2903,29,EG29,markaz,مركز طيبة,Tiba,Tiba (Markaz),مركز طيبه,base_2017,active,,,source,25.737964,32.703112,46.622
+3101,EG3101,31,EG31,qism,قسم أول الغردقة,Hurghada 1,Hurghada 1 (Qism),قسم اول الغردقه,base_2017,active,,,source,27.128882,33.243915,6176.985
+3102,EG3102,31,EG31,qism,قسم القصير,El Quseir,El Quseir (Qism),قسم القصير,base_2017,active,,,source,25.95669,33.950522,11642.751
+3103,EG3103,31,EG31,qism,قسم سفاجا,Safaga,Safaga (Qism),قسم سفاجا,base_2017,active,,,source,26.73173,33.460495,4752.288
+3104,EG3104,31,EG31,qism,قسم مرسى علم,Marsa Alam,Marsa Alam (Qism),قسم مرسي علم,base_2017,active,,,source,24.706932,34.285587,24390.783
+3105,EG3105,31,EG31,qism,قسم رأس غارب,Ras Gharib,Ras Gharib (Qism),قسم راس غارب,base_2017,active,,,source,28.506297,32.376968,10442.526
+3106,EG3106,31,EG31,qism,قسم شلاتين,Shalatin,Shalatin (Qism),قسم شلاتين,base_2017,active,,,source,23.079203,34.574024,49548.139
+3107,EG3107,31,EG31,qism,قسم حلايب,Halayeb,Halayeb (Qism),قسم حلايب,base_2017,active,,,source,22.385669,35.999678,7558.048
+3108,EG3108,31,EG31,qism,قسم ثان الغردقة,Hurghada 2,Hurghada 2 (Qism),قسم ثان الغردقه,base_2017,active,,,source,27.744555,33.080315,6820.368
+3201,EG3201,32,EG32,markaz,مركز الواحات الخارجة,Kharga Oasis,Kharga Oasis (Markaz),مركز الواحات الخارجه,base_2017,active,,,source,24.963984,31.013454,83078.501
+3202,EG3202,32,EG32,markaz,مركز الداخلة,Dakhla,Dakhla (Markaz),مركز الداخله,base_2017,active,,,source,24.802883,27.208627,267979.037
+3203,EG3203,32,EG32,markaz,مركز الفرافرة,Farafra Oasis,Farafra Oasis (Markaz),مركز الفرافره,base_2017,active,,,source,27.205144,26.760442,38255.291
+3204,EG3204,32,EG32,markaz,مركز باريس,Baris,Baris (Markaz),مركز باريس,base_2017,active,,,source,22.736594,30.41184,37497.68
+3301,EG3301,33,EG33,qism,قسم مرسى مطروح,Marsa Matrouh,Marsa Matrouh (Qism),قسم مرسي مطروح,base_2017,active,,,source,30.021953,26.996807,48000.062
+3302,EG3302,33,EG33,qism,قسم الحمام,El Hammam,El Hammam (Qism),قسم الحمام,base_2017,active,,,source,29.803591,29.417932,20382.733
+3303,EG3303,33,EG33,qism,قسم السلوم,Salloum,Salloum (Qism),قسم السلوم,base_2017,active,,,source,30.645894,25.254637,12878.556
+3304,EG3304,33,EG33,markaz,مركز الضبعة,El Dabaa,El Dabaa (Markaz),مركز الضبعه,base_2017,active,,,source,29.463325,28.242863,21408.201
+3305,EG3305,33,EG33,qism,قسم سيدي برانى,Sidi Barrani,Sidi Barrani (Qism),قسم سيدي براني,base_2017,active,,,source,30.655973,25.885907,16308.817
+3306,EG3306,33,EG33,markaz,مركز سيوة,Siwa,Siwa (Markaz),مركز سيوه,base_2017,active,,,source,28.703178,25.589389,37932.496
+3307,EG3307,33,EG33,qism,قسم مارينا العلمين السياحية,Marina El Alamein,Marina El Alamein (Qism),قسم مارينا العلمين السياحيه,base_2017,active,,,source,30.78218,28.740086,1528.375
+3308,EG3308,33,EG33,qism,قسم الساحل الشمالى - جزء,North Coast,North Coast (Qism),قسم الساحل الشمالي - جزء,base_2017,active,,,source,30.86117,29.281243,10.4
+3401,EG3401,34,EG34,qism,قسم أول العريش,El Arish 1,El Arish 1 (Qism),قسم اول العريش,base_2017,active,,,source,31.119801,33.824299,49.666
+3402,EG3402,34,EG34,qism,قسم ثان العريش,El Arish 2,El Arish 2 (Qism),قسم ثان العريش,base_2017,active,,,source,31.090219,33.750842,60.43
+3403,EG3403,34,EG34,qism,قسم ثالث العريش,El Arish 3,El Arish 3 (Qism),قسم ثالث العريش,base_2017,active,,,source,30.995022,33.776634,169.608
+3404,EG3404,34,EG34,qism,قسم رابع العريش,El Arish 4,El Arish 4 (Qism),قسم رابع العريش,base_2017,active,,,source,30.851203,33.595706,1391.369
+3405,EG3405,34,EG34,qism,قسم بئر العبد,Bir El Abd,Bir El Abd (Qism),قسم بئر العبد,base_2017,active,,,source,30.69012,33.101585,5226.761
+3406,EG3406,34,EG34,qism,قسم الحسنة,El Hasana,El Hasana (Qism),قسم الحسنه,base_2017,active,,,source,30.288253,33.54224,5799.59
+3407,EG3407,34,EG34,qism,قسم نخل,Nakhl,Nakhl (Qism),قسم نخل,base_2017,active,,,source,29.909191,34.0243,6664.896
+3408,EG3408,34,EG34,qism,قسم الشيخ زويد,Sheikh Zuweid,Sheikh Zuweid (Qism),قسم الشيخ زويد,base_2017,active,,,source,30.917924,33.970869,2430.124
+3409,EG3409,34,EG34,qism,قسم رفح,Rafah,Rafah (Qism),قسم رفح,base_2017,active,,,source,31.086602,34.226847,1025.787
+3410,EG3410,34,EG34,qism,قسم رمانة,Rummana,Rummana (Qism),قسم رمانه,base_2017,active,,,source,30.956604,32.698697,553.007
+3411,EG3411,34,EG34,qism,قسم القسيمة,El Qusayma,El Qusayma (Qism),قسم القسيمه,base_2017,active,,,source,30.46356,34.300958,3210.284
+3501,EG3501,35,EG35,qism,قسم الطور,El Tor,El Tor (Qism),قسم الطور,base_2017,active,,,source,28.364728,33.753276,4510.076
+3502,EG3502,35,EG35,qism,قسم رأس سدر,Ras Sedr,Ras Sedr (Qism),قسم راس سدر,base_2017,active,,,source,29.599334,33.317443,8099.264
+3503,EG3503,35,EG35,qism,قسم أبو رديس,Abu Rudeis,Abu Rudeis (Qism),قسم ابو رديس,base_2017,active,,,source,29.049399,33.597815,4058.593
+3504,EG3504,35,EG35,qism,قسم سانت كاترين,Saint Catherine,Saint Catherine (Qism),قسم سانت كاترين,base_2017,active,,,source,28.659722,34.051762,3353.875
+3505,EG3505,35,EG35,qism,قسم شرم الشيخ,Sharm El Sheikh,Sharm El Sheikh (Qism),قسم شرم الشيخ,base_2017,split,,,source,28.07988,34.202798,2613.59
+3506,EG3506,35,EG35,qism,قسم دهب,Dahab,Dahab (Qism),قسم دهب,base_2017,active,,,source,28.730291,34.450787,1087.13
+3507,EG3507,35,EG35,qism,قسم نويبع,Nuweiba,Nuweiba (Qism),قسم نويبع,base_2017,active,,,source,29.313718,34.311738,5576.0
+3508,EG3508,35,EG35,qism,قسم طابا,Taba,Taba (Qism),قسم طابا,base_2017,active,,,source,29.500746,34.840142,79.583
+902901,EG29N01,29,EG29,new_city,الأقصر الجديدة,New Luxor,New Luxor,الاقصر الجديده,added,active,,2010,source,25.609778,32.632806,
+900301,EG03N01,3,EG03,new_city,سلام مصر,Salam Misr (East Port Said),Salam Misr (East Port Said),سلام مصر,added,active,,2019,source,31.038365,32.637608,
+900101,EG01N01,1,EG01,new_city,العاصمة الإدارية الجديدة,New Administrative Capital,New Administrative Capital,العاصمه الاداريه الجديده,added,active,,2015,source,30.033694,31.755056,
+900401,EG04N01,4,EG04,new_city,الجلالة,New Galala,New Galala,الجلاله,added,active,,2015,source,29.430057,32.397321,
+901901,EG19N01,19,EG19,new_city,الإسماعيلية الجديدة,New Ismailia,New Ismailia,الاسماعيليه الجديده,added,active,,2016,source,30.570149,32.35048,
+901401,EG14N01,14,EG14,new_city,العبور الجديدة,New Obour,New Obour,العبور الجديده,added,active,,2016,source,30.27275,31.525194,
+901201,EG12N01,12,EG12,new_city,المنصورة الجديدة,New Mansoura,New Mansoura,المنصوره الجديده,added,active,,2017,source,31.479694,31.432667,
+902501,EG25N01,25,EG25,new_city,ناصر الجديدة,New Nasser City (West Asyut),New Nasser City (West Asyut),ناصر الجديده,added,active,,2017,source,27.07364,31.086289,
+902701,EG27N01,27,EG27,new_city,غرب قنا,West Qena City,West Qena City,غرب قنا,added,active,,2017,source,26.081642,32.640487,
+902101,EG21N01,21,EG21,new_city,حدائق أكتوبر,October Gardens,October Gardens,حدائق اكتوبر,added,active,,2017,source,29.890833,30.91275,
+902102,EG21N02,21,EG21,new_city,السادس من أكتوبر الجديدة,New 6th of October City,New 6th of October City,السادس من اكتوبر الجديده,added,active,,2017,source,29.903083,30.789333,
+903301,EG33N01,33,EG33,new_city,العلمين الجديدة,New Alamein,New Alamein,العلمين الجديده,added,active,,2018,source,30.856,28.9056,
+902201,EG22N01,22,EG22,new_city,الفشن الجديدة,New Fashn,New Fashn,الفشن الجديده,added,active,,2018,source,28.787268,30.68578,
+902401,EG24N01,24,EG24,new_city,ملوي الجديدة,New Mallawi,New Mallawi,ملوي الجديده,added,active,,2018,source,27.7641,30.68781,
+902402,EG24N02,24,EG24,new_city,بني مزار الجديدة,New Beni Mazar,New Beni Mazar,بني مزار الجديده,added,active,,2019,estimated,28.53,30.6,
+901801,EG18N01,18,EG18,new_city,رشيد الجديدة,New Rashid,New Rashid,رشيد الجديده,added,active,,2019,estimated,31.35,30.32,
+902103,EG21N03,21,EG21,new_city,سفنكس الجديدة,New Sphinx City,New Sphinx City,سفنكس الجديده,added,active,,2020,source,30.144806,30.805111,
+900102,EG01N02,1,EG01,new_city,حدائق العاصمة,Capital Gardens,Capital Gardens,حدائق العاصمه,added,active,,2020,source,30.130117,31.877554,
+903201,EG32N01,32,EG32,new_city,شرق العوينات الجديدة,New East Oweinat,New East Oweinat,شرق العوينات الجديده,added,active,,2003,estimated,22.5829,28.7073,
+900402,EG04N02,4,EG04,new_city,السويس الجديدة,New Suez,New Suez,السويس الجديده,added,active,,2021,source,29.852686,32.462374,
+902702,EG27N02,27,EG27,new_city,نجع حمادى الجديدة,New Nag Hammadi,New Nag Hammadi,نجع حمادي الجديده,added,active,,2021,estimated,26.08,31.81,
+902601,EG26N01,26,EG26,new_city,جرجا الجديدة,New Girga,New Girga,جرجا الجديده,added,active,,2022,source,26.115611,31.666028,
+911101,EG11C01,11,EG11,qism,قسم السرو,El Sarw,El Sarw (Qism),قسم السرو,update_2023,active,,,source,31.23867,31.65379,
+911102,EG11C02,11,EG11,markaz,مركز كفر البطيخ,Kafr El Battikh,Kafr El Battikh (Markaz),مركز كفر البطيخ,update_2023,active,,,source,31.40398,31.73778,
+911201,EG12C01,12,EG12,qism,قسم الكردي,El Kurdi,El Kurdi (Qism),قسم الكردي,update_2023,active,,,source,31.1429,31.7826,
+911301,EG13C01,13,EG13,markaz,مركز منشأة أبو عمر,Monshaat Abu Omar,Monshaat Abu Omar (Markaz),مركز منشاه ابو عمر,update_2023,active,,,source,30.857222,32.019444,
+911302,EG13C02,13,EG13,markaz,مركز صان الحجر,San El Hagar,San El Hagar (Markaz),مركز صان الحجر,update_2023,active,,,estimated,31.001462,32.096077,
+911401,EG14C01,14,EG14,qism,قسم أول بنها,Banha 1,Banha 1 (Qism),قسم اول بنها,update_2023,active,EG1401,,parent_center,30.465967,31.190221,
+911402,EG14C02,14,EG14,qism,قسم ثان بنها,Banha 2,Banha 2 (Qism),قسم ثان بنها,update_2023,active,EG1401,,parent_center,30.465967,31.190221,
+911501,EG15C01,15,EG15,qism,قسم أول كفر الشيخ,Kafr El Sheikh 1,Kafr El Sheikh 1 (Qism),قسم اول كفر الشيخ,update_2023,active,EG1501,,parent_center,31.119046,30.94146,
+911502,EG15C02,15,EG15,qism,قسم ثان كفر الشيخ,Kafr El Sheikh 2,Kafr El Sheikh 2 (Qism),قسم ثان كفر الشيخ,update_2023,active,EG1501,,parent_center,31.119046,30.94146,
+911601,EG16C01,16,EG16,qism,قسم ثالث المحلة الكبرى,El Mahalla El Kubra 3,El Mahalla El Kubra 3 (Qism),قسم ثالث المحله الكبري,update_2023,active,,,estimated,30.966667,31.166667,
+911901,EG19C01,19,EG19,markaz,مركز أبو صوير,Abu Suwir,Abu Suwir (Markaz),مركز ابو صوير,update_2023,active,,,estimated,30.583275,32.194002,
+911902,EG19C02,19,EG19,markaz,مركز القصاصين الجديدة,New Qassasin,New Qassasin (Markaz),مركز القصاصين الجديده,update_2023,active,,,source,30.566667,31.933333,
+912101,EG21C01,21,EG21,markaz,مركز أبو النمرس,Abu El Numrus,Abu El Numrus (Markaz),مركز ابو النمرس,update_2023,active,,,source,29.953883,31.221701,
+912102,EG21C02,21,EG21,qism,قسم الطالبية,Talbia,Talbia (Qism),قسم الطالبيه,update_2023,active,,,source,29.99056,31.174618,
+912103,EG21C03,21,EG21,qism,قسم ثالث 6 أكتوبر,6th of October 3,6th of October 3 (Qism),قسم ثالث 6 اكتوبر,update_2023,active,,,estimated,29.9475,31.02112,
+912301,EG23C01,23,EG23,markaz,مركز الشواشنة,El Shawashna,El Shawashna (Markaz),مركز الشواشنه,update_2023,active,,,source,29.37443,30.60779,
+912302,EG23C02,23,EG23,qism,قسم أول الفيوم,Faiyum 1,Faiyum 1 (Qism),قسم اول الفيوم,update_2023,active,EG2301,,parent_center,29.314014,30.839387,
+912303,EG23C03,23,EG23,qism,قسم ثان الفيوم,Faiyum 2,Faiyum 2 (Qism),قسم ثان الفيوم,update_2023,active,EG2301,,parent_center,29.314014,30.839387,
+912401,EG24C01,24,EG24,qism,قسم أول المنيا,Minya 1,Minya 1 (Qism),قسم اول المنيا,update_2023,active,EG2401,,parent_center,28.095274,30.744194,
+912402,EG24C02,24,EG24,qism,قسم ثان المنيا,Minya 2,Minya 2 (Qism),قسم ثان المنيا,update_2023,active,EG2401,,parent_center,28.095274,30.744194,
+912403,EG24C03,24,EG24,qism,قسم ثالث المنيا,Minya 3,Minya 3 (Qism),قسم ثالث المنيا,update_2023,active,EG2401,,parent_center,28.095274,30.744194,
+912404,EG24C04,24,EG24,markaz,مركز سمالوط شرق,Samalut East,Samalut East (Markaz),مركز سمالوط شرق,update_2023,active,EG2408,,parent_center,28.28469,30.629401,
+912405,EG24C05,24,EG24,markaz,مركز سمالوط غرب,Samalut West,Samalut West (Markaz),مركز سمالوط غرب,update_2023,active,EG2408,,parent_center,28.28469,30.629401,
+912801,EG28C01,28,EG28,qism,قسم أول أسوان,Aswan 1,Aswan 1 (Qism),قسم اول اسوان,update_2023,active,EG2801,,parent_center,24.062805,32.901469,
+912802,EG28C02,28,EG28,qism,قسم ثان أسوان,Aswan 2,Aswan 2 (Qism),قسم ثان اسوان,update_2023,active,EG2801,,parent_center,24.062805,32.901469,
+912901,EG29C01,29,EG29,markaz,مركز القرنة,El Qurna,El Qurna (Markaz),مركز القرنه,update_2023,active,,,source,25.725,32.620833,
+913201,EG32C01,32,EG32,markaz,مركز بلاط,Balat,Balat (Markaz),مركز بلاط,update_2023,active,,,source,25.564031,29.265819,
+913301,EG33C01,33,EG33,qism,قسم العلمين,El Alamein,El Alamein (Qism),قسم العلمين,update_2023,active,,,source,30.833333,28.95,
+913302,EG33C02,33,EG33,qism,قسم النجيلة,El Negaila,El Negaila (Qism),قسم النجيله,update_2023,active,,,source,31.4071,26.5832,
+913501,EG35C01,35,EG35,qism,قسم أول شرم الشيخ,Sharm El Sheikh 1,Sharm El Sheikh 1 (Qism),قسم اول شرم الشيخ,update_2023,active,EG3505,,parent_center,28.07988,34.202798,
+913502,EG35C02,35,EG35,qism,قسم ثان شرم الشيخ,Sharm El Sheikh 2,Sharm El Sheikh 2 (Qism),قسم ثان شرم الشيخ,update_2023,active,EG3505,,parent_center,28.07988,34.202798,

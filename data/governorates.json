@@ -1,0 +1,272 @@
+[
+ {
+  "id": 1,
+  "code": "EG01",
+  "iso_3166_2": "EG-C",
+  "name_ar": "القاهرة",
+  "name_en": "Cairo",
+  "latitude": 29.966496,
+  "longitude": 31.572883,
+  "area_sqkm": 2888.813
+ },
+ {
+  "id": 2,
+  "code": "EG02",
+  "iso_3166_2": "EG-ALX",
+  "name_ar": "الإسكندرية",
+  "name_en": "Alexandria",
+  "latitude": 30.798175,
+  "longitude": 29.707656,
+  "area_sqkm": 2510.047
+ },
+ {
+  "id": 3,
+  "code": "EG03",
+  "iso_3166_2": "EG-PTS",
+  "name_ar": "بورسعيد",
+  "name_en": "Port Said",
+  "latitude": 31.066977,
+  "longitude": 32.429971,
+  "area_sqkm": 980.293
+ },
+ {
+  "id": 4,
+  "code": "EG04",
+  "iso_3166_2": "EG-SUZ",
+  "name_ar": "السويس",
+  "name_en": "Suez",
+  "latitude": 29.621884,
+  "longitude": 32.121394,
+  "area_sqkm": 9358.101
+ },
+ {
+  "id": 11,
+  "code": "EG11",
+  "iso_3166_2": "EG-DT",
+  "name_ar": "دمياط",
+  "name_en": "Damietta",
+  "latitude": 31.393679,
+  "longitude": 31.628311,
+  "area_sqkm": 752.89
+ },
+ {
+  "id": 12,
+  "code": "EG12",
+  "iso_3166_2": "EG-DK",
+  "name_ar": "الدقهلية",
+  "name_en": "Dakahlia",
+  "latitude": 30.966366,
+  "longitude": 31.468504,
+  "area_sqkm": 3491.662
+ },
+ {
+  "id": 13,
+  "code": "EG13",
+  "iso_3166_2": "EG-SHR",
+  "name_ar": "الشرقية",
+  "name_en": "Sharqia",
+  "latitude": 30.649608,
+  "longitude": 31.772194,
+  "area_sqkm": 5333.953
+ },
+ {
+  "id": 14,
+  "code": "EG14",
+  "iso_3166_2": "EG-KB",
+  "name_ar": "القليوبية",
+  "name_en": "Qalyubia",
+  "latitude": 30.360127,
+  "longitude": 31.209127,
+  "area_sqkm": 1132.103
+ },
+ {
+  "id": 15,
+  "code": "EG15",
+  "iso_3166_2": "EG-KFS",
+  "name_ar": "كفر الشيخ",
+  "name_en": "Kafr El Sheikh",
+  "latitude": 31.309825,
+  "longitude": 30.901371,
+  "area_sqkm": 3265.058
+ },
+ {
+  "id": 16,
+  "code": "EG16",
+  "iso_3166_2": "EG-GH",
+  "name_ar": "الغربية",
+  "name_en": "Gharbia",
+  "latitude": 30.871644,
+  "longitude": 31.016873,
+  "area_sqkm": 1973.915
+ },
+ {
+  "id": 17,
+  "code": "EG17",
+  "iso_3166_2": "EG-MNF",
+  "name_ar": "المنوفية",
+  "name_en": "Monufia",
+  "latitude": 30.358457,
+  "longitude": 30.661348,
+  "area_sqkm": 2146.287
+ },
+ {
+  "id": 18,
+  "code": "EG18",
+  "iso_3166_2": "EG-BH",
+  "name_ar": "البحيرة",
+  "name_en": "Beheira",
+  "latitude": 30.689098,
+  "longitude": 30.356267,
+  "area_sqkm": 11347.175
+ },
+ {
+  "id": 19,
+  "code": "EG19",
+  "iso_3166_2": "EG-IS",
+  "name_ar": "الإسماعيلية",
+  "name_en": "Ismailia",
+  "latitude": 30.603266,
+  "longitude": 32.550168,
+  "area_sqkm": 5458.917
+ },
+ {
+  "id": 21,
+  "code": "EG21",
+  "iso_3166_2": "EG-GZ",
+  "name_ar": "الجيزة",
+  "name_en": "Giza",
+  "latitude": 28.935355,
+  "longitude": 29.391946,
+  "area_sqkm": 36326.416
+ },
+ {
+  "id": 22,
+  "code": "EG22",
+  "iso_3166_2": "EG-BNS",
+  "name_ar": "بني سويف",
+  "name_en": "Beni Suef",
+  "latitude": 28.725392,
+  "longitude": 31.33827,
+  "area_sqkm": 10613.296
+ },
+ {
+  "id": 23,
+  "code": "EG23",
+  "iso_3166_2": "EG-FYM",
+  "name_ar": "الفيوم",
+  "name_en": "Faiyum",
+  "latitude": 29.318008,
+  "longitude": 30.585272,
+  "area_sqkm": 5319.051
+ },
+ {
+  "id": 24,
+  "code": "EG24",
+  "iso_3166_2": "EG-MN",
+  "name_ar": "المنيا",
+  "name_en": "Minya",
+  "latitude": 28.156272,
+  "longitude": 31.610218,
+  "area_sqkm": 31295.349
+ },
+ {
+  "id": 25,
+  "code": "EG25",
+  "iso_3166_2": "EG-AST",
+  "name_ar": "أسيوط",
+  "name_en": "Asyut",
+  "latitude": 27.358942,
+  "longitude": 31.794921,
+  "area_sqkm": 16428.194
+ },
+ {
+  "id": 26,
+  "code": "EG26",
+  "iso_3166_2": "EG-SHG",
+  "name_ar": "سوهاج",
+  "name_en": "Sohag",
+  "latitude": 26.725555,
+  "longitude": 32.17473,
+  "area_sqkm": 9993.193
+ },
+ {
+  "id": 27,
+  "code": "EG27",
+  "iso_3166_2": "EG-KN",
+  "name_ar": "قنا",
+  "name_en": "Qena",
+  "latitude": 25.975026,
+  "longitude": 33.124042,
+  "area_sqkm": 12702.335
+ },
+ {
+  "id": 28,
+  "code": "EG28",
+  "iso_3166_2": "EG-ASN",
+  "name_ar": "أسوان",
+  "name_en": "Aswan",
+  "latitude": 23.60616,
+  "longitude": 32.263816,
+  "area_sqkm": 57733.672
+ },
+ {
+  "id": 29,
+  "code": "EG29",
+  "iso_3166_2": "EG-LX",
+  "name_ar": "الأقصر",
+  "name_en": "Luxor",
+  "latitude": 25.580055,
+  "longitude": 32.620136,
+  "area_sqkm": 951.066
+ },
+ {
+  "id": 31,
+  "code": "EG31",
+  "iso_3166_2": "EG-BA",
+  "name_ar": "البحر الأحمر",
+  "name_en": "Red Sea",
+  "latitude": 25.588028,
+  "longitude": 33.943782,
+  "area_sqkm": 121331.888
+ },
+ {
+  "id": 32,
+  "code": "EG32",
+  "iso_3166_2": "EG-WAD",
+  "name_ar": "الوادي الجديد",
+  "name_en": "New Valley",
+  "latitude": 24.719282,
+  "longitude": 28.709093,
+  "area_sqkm": 426810.509
+ },
+ {
+  "id": 33,
+  "code": "EG33",
+  "iso_3166_2": "EG-MT",
+  "name_ar": "مطروح",
+  "name_en": "Matrouh",
+  "latitude": 29.667254,
+  "longitude": 27.403019,
+  "area_sqkm": 158449.639
+ },
+ {
+  "id": 34,
+  "code": "EG34",
+  "iso_3166_2": "EG-SIN",
+  "name_ar": "شمال سيناء",
+  "name_en": "North Sinai",
+  "latitude": 30.425338,
+  "longitude": 33.700807,
+  "area_sqkm": 26581.521
+ },
+ {
+  "id": 35,
+  "code": "EG35",
+  "iso_3166_2": "EG-JS",
+  "name_ar": "جنوب سيناء",
+  "name_en": "South Sinai",
+  "latitude": 28.836051,
+  "longitude": 33.901875,
+  "area_sqkm": 29378.11
+ }
+]

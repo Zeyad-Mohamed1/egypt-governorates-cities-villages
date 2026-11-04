@@ -1,0 +1,46 @@
+name: Validate data
+on:
+  push:
+  pull_request:
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+      - name: Run checks
+        run: python tests/test_data.py
+  databases:
+    runs-on: ubuntu-latest
+    services:
+      postgres:
+        image: postgres:17
+        env:
+          POSTGRES_PASSWORD: test
+        ports: ["5432:5432"]
+        options: >-
+          --health-cmd "pg_isready -U postgres" --health-interval 5s --health-timeout 5s --health-retries 20
+      mysql:
+        image: mysql:8.4
+        env:
+          MYSQL_ROOT_PASSWORD: test
+          MYSQL_DATABASE: egypt
+        ports: ["3306:3306"]
+        options: >-
+          --health-cmd "mysqladmin ping -h 127.0.0.1 -ptest" --health-interval 5s --health-timeout 5s --health-retries 30
+    steps:
+      - uses: actions/checkout@v7
+      - name: Load into PostgreSQL
+        env:
+          PGPASSWORD: test
+        run: |
+          psql -h 127.0.0.1 -U postgres -v ON_ERROR_STOP=1 -q -f data/egypt-divisions.sql
+          test "$(psql -h 127.0.0.1 -U postgres -tAc 'SELECT COUNT(*) FROM localities')" = "$(python3 -c 'import json;print(len(json.load(open("data/localities.json"))))')"
+          psql -h 127.0.0.1 -U postgres -tAc "SELECT g.name_en FROM localities l JOIN centers c ON c.id = l.center_id JOIN governorates g ON g.id = c.governorate_id WHERE l.code = 'EG010101'" | grep -x Cairo
+      - name: Load into MySQL
+        run: |
+          mysql -h 127.0.0.1 -uroot -ptest --default-character-set=utf8mb4 egypt < data/egypt-divisions.sql
+          test "$(mysql -h 127.0.0.1 -uroot -ptest -N egypt -e 'SELECT COUNT(*) FROM localities')" = "$(python3 -c 'import json;print(len(json.load(open("data/localities.json"))))')"
+          mysql -h 127.0.0.1 -uroot -ptest -N --default-character-set=utf8mb4 egypt -e "SELECT name_ar FROM governorates WHERE code = 'EG01'" | grep -x "القاهرة"

@@ -1,0 +1,10 @@
+.cache/
+__pycache__/
+.DS_Store
+
+JOURNEY.md
+
+# Local only
+JOURNEY.md
+sources/
+scripts/
